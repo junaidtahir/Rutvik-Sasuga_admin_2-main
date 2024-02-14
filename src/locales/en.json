@@ -1,0 +1,92 @@
+{
+  "Sidebar": {
+    "Dashboard": "Dashboard",
+    "UserManagement": "User Management",
+    "PushNotification": "Push notification",
+    "Reply": "Reply",
+    "AdminSetting": "Admin Setting",
+    "ChangeLanguage": "Change Language",
+    "LogOut": "Logout"
+  },
+  "Header": {
+    "Dashboard": "Dashboard",
+    "UserManagement": "User Management",
+    "NotificationManagement": "Notification Management",
+    "AdminSetting": "Admin Setting",
+    "WelcomeBack": "Welcome Back 🎉",
+    "ReplyForClients": "Reply for clients",
+    "ChangeLanguage": "Change Language"
+  },
+  "Dashboard": {
+    "NumberOfPremiumUsers": "Number of Premium users",
+    "NumberOfRegisteredUsers": "Number of Registered users",
+    "NumberOfActiveUsers": "Number of active users",
+    "SummaryOfUsersState": "Summary of users state",
+    "SummaryOfGender": "Summary of Gender"
+  },
+  "UserManagement": {
+    "Results": "Results",
+    "ClearFilters": "Clear filters",
+    "FilterBy": "Filter by",
+    "SerialNumber": "S/N",
+    "UserId": "User ID",
+    "Phone": "Phone",
+    "Email": "Email",
+    "Avatar": "Avatar",
+    "UserName": "User Name",
+    "Gender": "Gender",
+    "Age": "Age",
+    "Location": "Location",
+    "Action": "Action",
+    "Showing": "Showing",
+    "SubscriptionType": "Subscription Type"
+  },
+  "SendMessage" : {
+    "SendMessage": "Send Message",
+    "VerifyUser": "Verify User",
+    "DeleteUser": "Delete User",
+    "SusupendUser": "Susupend User",
+    "To": "To",
+    "Message": "Message",
+    "Send": "Send",
+    "TypeMessageHere": "Type message here",
+    "YouAreAboutToVerify": "You are about to active",
+    "YouAreAboutToDelete": "You are about to delete",
+    "ClickConfirmToVerify": "click confirm to active",
+    "ClickConfirmToDelete": "click confirm to delete",
+    "Confirm": "Confirm",
+    "Cancel": "Cancel",
+    "YouAreAboutToSuspend": "You are about to disable",
+    "ClickConfirmToSuspend": "click confirm to disable",
+    "MessageSent": "Message sent",
+    "YourMessageHasBeenSentSuccessfully": "Your message has been sent successfully"
+  },
+  "Notification" : {
+    "NewNotification": "New Notification",
+    "Type": "Type",
+    "Search": "Search",
+    "UserEmailOrUsername": "useremail or username",
+    "Number": "No",
+    "NotificationMessagelete": "Notification Message",
+    "NotificationType": "Notification Type",
+    "CreateTime": "Create Time",
+    "Action": "Action",
+    "Delete": "Delete",
+    "Title": "Title"
+  },
+  "EnterMessage": {
+    "EnterMessage": "Enter Message"
+  },
+  "Login": {
+    "Login": "Login",
+    "Username": "Username",
+    "Password": "Password"
+  },
+  "AdminSetting": {
+    "ChangeAdminPassword": "Change Admin Password",
+    "PreviousPassword": "Previous Password",
+    "NewPassword": "New Password",
+    "RepeatPassword": "Repeat Password",
+    "ChangePassword": "Change password"
+  }
+}

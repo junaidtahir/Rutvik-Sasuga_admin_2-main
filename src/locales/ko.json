@@ -1,0 +1,82 @@
+{
+  "Sidebar": {
+    "Dashboard": "대시 보드",
+    "UserManagement": "사용자 관리",
+    "PushNotification": "푸시 알림",
+    "Reply": "회신",
+    "AdminSetting": "관리자 설정",
+    "ChangeLanguage": "언어 변경",
+    "LogOut": "로그아웃"
+  },
+  "Header": {
+    "Dashboard": "대시 보드",
+    "UserManagement": "사용자 관리",
+    "NotificationManagement": "알림 관리",
+    "AdminSetting": "관리자 설정",
+    "WelcomeBack": "다시 오신 것을 환영합니다 🎉",
+    "ReplyForClients": "고객에 대한 회신",
+    "ChangeLanguage": "언어 변경"
+  },
+  "Dashboard": {
+    "NumberOfRegisteredUsers": "등록된 사용자 수",
+    "NumberOfActiveUsers": "활성 사용자 수",
+    "SummaryOfUsersState": "사용자 상태 요약"
+  },
+  "UserManagement": {
+    "Results": "결과",
+    "ClearFilters": "필터 지우기",
+    "FilterBy": "필터링 기준",
+    "SerialNumber": "일련 번호",
+    "UserId": "사용자 ID",
+    "UserName": "사용자 이름",
+    "Gender": "성별",
+    "Age": "나이",
+    "Location": "위치",
+    "Action": "동작",
+    "Showing": "표시 중"
+  },
+  "SendMessage" : {
+    "SendMessage": "메시지 보내기",
+    "VerifyUser": "사용자 확인",
+    "SusupendUser": "사용자 정지",
+    "To": "받는 사람",
+    "Message": "메시지",
+    "Send": "전송",
+    "TypeMessageHere": "여기에 메시지 입력",
+    "YouAreAboutToVerify": "사용자 확인을 진행 중입니다",
+    "ClickConfirmToVerify": "확인하려면 클릭",
+    "Confirm": "확인",
+    "Cancel": "취소",
+    "YouAreAboutToSuspend": "사용자 정지를 진행 중입니다",
+    "ClickConfirmToSuspend": "확인하려면 클릭",
+    "MessageSent": "메시지 전송됨",
+    "YourMessageHasBeenSentSuccessfully": "메시지가 성공적으로 전송되었습니다"
+  },
+  "Notification" : {
+    "NewNotification": "새로운 알림",
+    "Type": "유형",
+    "Search": "검색",
+    "UserEmailOrUsername": "사용자 이메일 또는 사용자 이름",
+    "Number": "번호",
+    "NotificationMessagelete": "알림 메시지",
+    "NotificationType": "알림 유형",
+    "CreateTime": "생성 시간",
+    "Action": "동작",
+    "Delete": "삭제"
+  },
+  "EnterMessage": {
+    "EnterMessage": "메시지 입력"
+  },
+  "Login": {
+    "Login": "로그인",
+    "Username": "사용자 이름",
+    "Password": "비밀번호"
+  },
+  "AdminSetting": {
+    "ChangeAdminPassword": "관리자 비밀번호 변경",
+    "PreviousPassword": "이전 비밀번호",
+    "NewPassword": "새 비밀번호",
+    "RepeatPassword": "비밀번호 반복",
+    "ChangePassword": "비밀번호 변경"
+  }
+}

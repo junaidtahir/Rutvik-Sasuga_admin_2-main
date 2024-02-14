@@ -1,0 +1,82 @@
+{
+  "Sidebar": {
+    "Dashboard": "ダッシュボード",
+    "UserManagement": "ユーザー管理",
+    "PushNotification": "プッシュ通知",
+    "Reply": "返信",
+    "AdminSetting": "管理者設定",
+    "ChangeLanguage": "言語を変更",
+    "LogOut": "ログアウト"
+  },
+  "Header": {
+    "Dashboard": "ダッシュボード",
+    "UserManagement": "ユーザー管理",
+    "NotificationManagement": "通知管理",
+    "AdminSetting": "管理者設定",
+    "WelcomeBack": "お帰りなさい 🎉",
+    "ReplyForClients": "顧客への返信",
+    "ChangeLanguage": "言語を変更"
+  },
+  "Dashboard": {
+    "NumberOfRegisteredUsers": "登録ユーザー数",
+    "NumberOfActiveUsers": "アクティブユーザー数",
+    "SummaryOfUsersState": "ユーザー状態の要約"
+  },
+  "UserManagement": {
+    "Results": "結果",
+    "ClearFilters": "フィルターをクリア",
+    "FilterBy": "フィルター",
+    "SerialNumber": "シリアル番号",
+    "UserId": "ユーザーID",
+    "UserName": "ユーザー名",
+    "Gender": "性別",
+    "Age": "年齢",
+    "Location": "場所",
+    "Action": "アクション",
+    "Showing": "表示中"
+  },
+  "SendMessage" : {
+    "SendMessage": "メッセージを送信",
+    "VerifyUser": "ユーザーを確認",
+    "SusupendUser": "ユーザーを停止",
+    "To": "宛先",
+    "Message": "メッセージ",
+    "Send": "送信",
+    "TypeMessageHere": "ここにメッセージを入力",
+    "YouAreAboutToVerify": "ユーザーを確認しようとしています",
+    "ClickConfirmToVerify": "確認するにはクリック",
+    "Confirm": "確認",
+    "Cancel": "キャンセル",
+    "YouAreAboutToSuspend": "ユーザーを停止しようとしています",
+    "ClickConfirmToSuspend": "確認するにはクリック",
+    "MessageSent": "メッセージが送信されました",
+    "YourMessageHasBeenSentSuccessfully": "メッセージが正常に送信されました"
+  },
+  "Notification" : {
+    "NewNotification": "新しい通知",
+    "Type": "種類",
+    "Search": "検索",
+    "UserEmailOrUsername": "ユーザーのメールアドレスまたはユーザー名",
+    "Number": "番号",
+    "NotificationMessagelete": "通知メッセージ",
+    "NotificationType": "通知の種類",
+    "CreateTime": "作成時刻",
+    "Action": "アクション",
+    "Delete": "削除"
+  },
+  "EnterMessage": {
+    "EnterMessage": "メッセージを入力"
+  },
+  "Login": {
+    "Login": "ログイン",
+    "Username": "ユーザー名",
+    "Password": "パスワード"
+  },
+  "AdminSetting": {
+    "ChangeAdminPassword": "管理者パスワードを変更",
+    "PreviousPassword": "以前のパスワード",
+    "NewPassword": "新しいパスワード",
+    "RepeatPassword": "パスワードを繰り返す",
+    "ChangePassword": "パスワードを変更"
+  }
+}
